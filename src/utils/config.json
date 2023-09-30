@@ -1,25 +1,52 @@
 {
-    "title":"This is homepage",
-    "description": "This is homepage description",
+    "title":"Sweet Shop",
+    "description": "Location Pune",
     "theme":{
-        "primaryColor":"#3333ff",
+        "primaryColor":"#04277a",
         "secondaryColor":"#b35900",
-        "accentColor":"ccf5ff"
+        "accentColor":"#dcdfe6"
     },
     "services":[
         {
-            "title":"Services 1",
-            "description": "Services 1 description",
+            "title":"Cake",
+            "img": "https://www.fnp.com/images/pr/l/v20221205202745/chocolate-rose-designer-cake-1-kg_1.jpg",
+            "description": "A cake is a type of (usually) sweet dessert which is baked. Originally, it was a bread-like food, but no longer. Cakes are often made to celebrate special occasions like birthdays or weddings. There are many kinds of cakes.",
+            "price": 300
+        },
+        {
+            "title":"kaju katli",
+            "img": "https://noveltysweets.com/cdn/shop/products/WhatsAppImage2022-06-21at5.05.07PM.jpg?v=1655811349",
+            "description": "Kaju katli (literally 'cashew slice'), also known as kaju barfi, is an Indian dessert similar to a barfi. Kaju means cashew; barfi is often made by thickening milk with sugar and other ingredients (such as dry fruits and mild spices). Kesar kaju katli includes saffron.",
+            "price": 449 
+        },
+        {
+            "title":"Barfi",
+            "img": "https://www.chefkunalkapur.com/wp-content/uploads/2021/11/3F3A0762-copy-1300x867.jpg?v=1635912073",
+            "description": "Barfi or burfi is a milk-based sweet from the Indian subcontinent with a fudge-like consistency. Its name comes from the Persian and Urdu word (barf) for snow.",
+            "price": 150
+        },
+        {
+            "title":"Rasgulla",
+            "img": "https://cdn.ready-market.com/101/21cd62de//Templates/pic/ANKO-Rasgulla-1200X1200.jpg?v=917d2891",
+            "description": "Rasgulla (literally 'syrup filled ball') is a syrupy dessert popular in the eastern part of South Asia. It is made from ball-shaped dumplings of chhena dough, cooked in light sugar syrup made of sugar. This is done until the syrup permeates the dumplings.",
             "price": 100
+        } ,
+        {
+            "title":"Kalakand",
+            "img":"https://static.toiimg.com/thumb/70656402.cms?width=1200&height=900",
+            "description": "Kalakand is a sweet cheese confection from India. It has been described as akin to Italian cheesecake, firmer in texture than milk cake, but softer than burfis.",
+            "price": 90
         },
         {
-            "title":"Services 2",
-            "description": "Services 2 description",
-            "price": 200
+            "title":"Modak",
+            "img":"https://i.ytimg.com/vi/roNFuSD58Uw/maxresdefault.jpg",
+            "description": "Modak is an Indian sweet dumpling dish widely popular amongst people as dessert or sweet. The sweet filling inside a modak consists of freshly grated coconut and jaggery, while the outer soft shell is made from rice flour or wheat flour.",
+            "price": 300
         },
         {
-            "title":"Services 3",
-            "description": "Services 3 description",
+            "title":"petha",
+            "img":"https://gopaldaspethewale.com/wp-content/uploads/2022/10/gandeli-petha-1.jpg",
+            "description": "petha, a sweet candy of North India and Pakistan that is made from pieces of ash gourd (also called winter melon, wax gourd, or white gourd) that are typically soaked in lime water and then cooked in sugar syrup.",
             "price": 300
         }
     ]
